@@ -1,0 +1,9 @@
+
+/* RESET */
+header, 
+footer{
+    color: orange;
+}
+article:first-child :nth-child(2) {
+    color: green;
+}
