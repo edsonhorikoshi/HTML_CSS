@@ -1,9 +1,28 @@
 
 /* RESET */
+body{
+    background-color: cyan;
+    border: dashed, orangered, 4px;
+}
+
 header, 
 footer{
     color: orange;
 }
+
 article:first-child :nth-child(2) {
     color: green;
+}
+
+ul{
+    color: blue;
+    background-color: black;
+}
+
+letras_vermelhas{
+    color: red;
+}
+
+cor_H1{
+    color: black;
 }
